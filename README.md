@@ -59,7 +59,7 @@ Link to your Trello boards here:
 * User Stories
 * Investigations
 * Implementations
-* Features
+* [Features](https://trello.com/b/lGsH3HVx/features)
   * sub-feature (if needed)
   * ...
 * [Design](https://trello.com/b/LfG7Hhv3/design)
